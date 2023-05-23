@@ -1,7 +1,7 @@
 # Olá Caro Viajante!
 
 # 💫 About Me/Sobre MIM:
-🎓 Estudante De Engenharia De Software Da UNIVERSIDADE FEDERAL DE GOIÁS - UFG<br><br>🇨 Aprendendo Conceitos De Programação Em C<br><br>🖥️ 🎨 Um pouco de conhecimento Front-End no que concerne a WebDevelopment<br><br>☕🧮 Gosto de Matemática e Café<br><br>🎹🎮 Como Hobbie eu toco Teclado e Jogo Jogos on-lines/off-lines<br><br>✝️CRISTÂO Com Muito Orgulho <3
+🎓 Estudante De Engenharia De Software Da UNIVERSIDADE FEDERAL DE GOIÁS - UFG<br><br>🇨 Aprendendo Conceitos De Programação Em C<br><br>🖥️ 🎨 Um pouco de conhecimento Front-End no que concerne a WebDevelopment<br><br>☕🧮 Gosto de Matemática e Café<br><br>🎹🎮 Como Hobbie eu toco Teclado e Jogo Jogos on-lines/off-lines<br><br>
 
 
 ## 🌐 Socials/Redes Socias:
