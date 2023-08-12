@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-----------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :man_technologist: Sobre mim :
 Estudante de Engenharia de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Na UFG <img src="https://media.giphy.com/media/9vUxZ9ShOIb6B2b3ij/giphy.gif" width="30"/>.
