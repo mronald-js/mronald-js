@@ -49,5 +49,3 @@
 </div>
 
 <hr style="border-top: 3px solid #333; margin-top: 20px; margin-bottom: 20px;">
-
-<p align="center" style="padding-top: 20px;">(Por Enquanto isso é tudo ^^) Até mais!!</p>
