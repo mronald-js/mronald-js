@@ -34,7 +34,7 @@
   <ul align="left" style="list-style-type: square; padding-left: 50px; padding-right: 50px;">
     <li>:telescope: Entusiasta pela tecnologia, vivendo e aprendendo!</li>
     <li>:dizzy: Em busca do auto-aprimoramento constante.</li>
-    <li>:mailbox:Entre em contato comigo: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mronaldjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a></li>
+    <li>:mailbox:Entre em contato comigo: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mronaldjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a><a href="https://www.linkedin.com/in/marcello-ronald-silva-121086258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/></a></li>
   </ul>
 </p>
 
