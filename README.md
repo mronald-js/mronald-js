@@ -32,9 +32,8 @@
   Estudante de Engenharia de Software <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Na UFG <img src="https://media.giphy.com/media/9vUxZ9ShOIb6B2b3ij/giphy.gif" width="30"/>.
   <br>
   <ul align="left" style="list-style-type: square; padding-left: 50px; padding-right: 50px;">
-    <li>:telescope: Entusiasta pela tecnologia, aprendendo e aplicando conceitos de C</li>
+    <li>:telescope: Entusiasta pela tecnologia, vivendo e aprendendo!</li>
     <li>:dizzy: Em busca do auto-aprimoramento constante.</li>
-    <li>:space_invader: Codar é uma arte <3!</li>
     <li>:mailbox:Entre em contato comigo: &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mronaldjs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a></li>
   </ul>
 </p>
