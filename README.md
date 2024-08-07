@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" style="max-width: 200px; height: auto;">
   <div>
-    Estudante de Engenharia de Software na UFG. Atualmente estou no meu 3° Período na graduação, gosto bastante de assuntos que envolvam tecnologia, tenho 19 anos e estou buscando aprimorar os meus conhecimentos gerais no que concerne ao ciclo de desenvolvimento de um software e isso inclui claro o desenvolvimento.
+    Estudante de Engenharia de Software na UFG.
   </div>
 </div>
 
