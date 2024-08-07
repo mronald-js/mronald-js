@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 <p align="center">
-    ![gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+    <img ![gif](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif) />
 </p>
 Estudante de Engenharia de Software na UFG, Atualmente estou no meu 3° Período na graduação, gosto bastante de assuntos que envolvam tecnologia, tenho 19 anos e estou buscando aprimorar os meus conhecimentos gerais no que concerne ao ciclo de desenvolvimento de um software e isso inclui claro o desenvolvimento.
 
