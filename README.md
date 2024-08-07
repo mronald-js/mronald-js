@@ -1,14 +1,17 @@
 
 # Marcello Ronald
 
-
 ## 🚀 Sobre mim
-<p align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
-</p>
-Estudante de Engenharia de Software na UFG, Atualmente estou no meu 3° Período na graduação, gosto bastante de assuntos que envolvam tecnologia, tenho 19 anos e estou buscando aprimorar os meus conhecimentos gerais no que concerne ao ciclo de desenvolvimento de um software e isso inclui claro o desenvolvimento.
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" style="max-width: 200px; height: auto;">
+  <div>
+    Estudante de Engenharia de Software na UFG. Atualmente estou no meu 3° Período na graduação, gosto bastante de assuntos que envolvam tecnologia, tenho 19 anos e estou buscando aprimorar os meus conhecimentos gerais no que concerne ao ciclo de desenvolvimento de um software e isso inclui claro o desenvolvimento.
+  </div>
+</div>
 
+## Github Info
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mronald-js&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🛠 Linguagens | Tecnologias | Ferramentas
 
@@ -25,12 +28,6 @@ Estudante de Engenharia de Software na UFG, Atualmente estou no meu 3° Período
 | --- | --- |
 
 É válido Ressaltar que não significa que eu domino todas mas que já tive pelo menos um contato com.
-
-## Github Info
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mronald-js&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
 
 ## 🔗 Links | Contato
 
