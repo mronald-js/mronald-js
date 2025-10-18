@@ -3,9 +3,6 @@
 ## 🚀 Sobre mim
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" style="max-width: 200px; height: auto;">
-  <div>
-    Estudante de Engenharia de Software na UFG. Gosto de aprender novas tecnologias web e construir projetos práticos para aprimorar minhas habilidades.
-  </div>
 </div>
 
 ## 🛠 Linguagens, Tecnologias e Ferramentas
