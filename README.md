@@ -4,7 +4,8 @@
 </div>
 <br />
 Só mais um dentre vários que vêem o mundo sob uma outra perspectiva. <br /><br />
-Visite meu blog em: [o_blog](https://www.oblog.app)
+
+Visite meu blog em: [o_blog](https://www.oblog.app/)
 
 ---
 ## GitHub Status
