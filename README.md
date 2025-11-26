@@ -8,10 +8,8 @@ Só mais um dentre vários que vêem o mundo sob uma outra perspectiva. <br /><b
 Visite meu blog em: [o_blog](https://www.oblog.app/)
 
 ---
-## GitHub Status
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mronald-js&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=mronald-js&theme=catppuccin-macchiato&locale=pt_BR)](https://git.io/streak-stats)
 ---
 
 ## Linguagens, Tecnologias e Ferramentas
