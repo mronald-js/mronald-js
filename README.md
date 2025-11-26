@@ -10,6 +10,7 @@ Visite meu blog em: [o_blog](https://www.oblog.app/)
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mronald-js&theme=catppuccin-macchiato&locale=pt_BR)](https://git.io/streak-stats)
+
 ---
 
 ## Linguagens, Tecnologias e Ferramentas
