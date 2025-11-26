@@ -7,6 +7,23 @@ Só mais um dentre vários que vêem o mundo sob uma outra perspectiva. <br /><b
 Visite meu blog em: [o_blog](https://www.oblog.app)
 
 ---
+## GitHub Status
+
+<div align="center">
+
+  <!-- Streak Stats (funciona perfeitamente) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mronald-js&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+  <!-- Activity Graph (substitua pelo novo serviço que ainda está vivo) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mronald-js&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
+
+</div>
+
+---
 
 ## Linguagens, Tecnologias e Ferramentas
 
@@ -28,6 +45,6 @@ Visite meu blog em: [o_blog](https://www.oblog.app)
 ## 🔗 Social
 | Portfolio | LinkedIn | Instagram | X |
 | --- | --- | --- | --- |
-| [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mronaldjs.com/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-ronald-silva-121086258) | [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mronald.zzz/) |
+| [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mronaldjs.com/) | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-ronald-silva-121086258) | [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mronald.zzz/) | [![X - @mronaldjs](https://img.shields.io/badge/X-@mronaldjs-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mronaldjs) |
 
 ---
