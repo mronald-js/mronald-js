@@ -2,26 +2,14 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF" style="max-width: 200px; height: auto;">
 </div>
-
+<br />
 Só mais um dentre vários que vêem o mundo sob uma outra perspectiva. <br /><br />
 Visite meu blog em: [o_blog](https://www.oblog.app)
 
 ---
 ## GitHub Status
 
-<div align="center">
-
-  <!-- Streak Stats (funciona perfeitamente) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mronald-js&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" />
-
-</div>
-
-<div align="center">
-
-  <!-- Activity Graph (substitua pelo novo serviço que ainda está vivo) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mronald-js&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" />
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mronald-js&theme=catppuccin-macchiato&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
